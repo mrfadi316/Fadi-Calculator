@@ -25,7 +25,7 @@ Velocity Calculation (v = u + at): Computes final velocity using initial velocit
 Kinetic Energy Calculation (KE = 0.5 * m * v²): Calculates the kinetic energy of an object.
 
 Gravitational Force Calculation (F = G * (m1 * m2) / r²): Computes the gravitational force between two masses.
-
+![screenshot](Screenshot_20241225-084030.jpg)
 **How To Use**
 
 ```pkg update && pkg upgrade
@@ -35,6 +35,7 @@ pip install colorama
 git clone https://github.com/mrfadi316/Fadi-Calculator
 cd Fadi-Calculator
 python calculator.py```
+
 
 #####Choose an Operation:
 
