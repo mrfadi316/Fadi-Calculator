@@ -36,7 +36,7 @@ git clone https://github.com/mrfadi316/Fadi-Calculator
 cd Fadi-Calculator
 python calculator.py```
 
-Choose an Operation:
+#####Choose an Operation:
 
 After the program starts, you will see options:
 
